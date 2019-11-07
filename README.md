@@ -149,6 +149,6 @@ All the YC questions collected from random websites.
 - 142	Would they be willing to pay more for something better?
 - 143	Would you relocate to Silicon Valley during YC?
 
-* num
-* ber
-* one
+0. num
+0. ber
+0. one
