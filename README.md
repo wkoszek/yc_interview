@@ -1,7 +1,8 @@
-# YC Interview Questions
+# YC Interview Questions: collection
 
-All the YC questions collected from random websites.
-
+All the YC questions collected from random websites. Feel free to submit the
+PR if you still see duplicates or if you've been asked a question which
+isn't on the list yet.
 
 # Questions
 
@@ -148,3 +149,9 @@ All the YC questions collected from random websites.
 1.	Will your team stick at this?
 1.	Would they be willing to pay more for something better?
 1.	Would you relocate to Silicon Valley during YC?
+
+
+# Author
+
+- Wojciech Adam Koszek, [wojciech@koszek.com](mailto:wojciech@koszek.com)
+- [http://www.koszek.com](http://www.koszek.com)
