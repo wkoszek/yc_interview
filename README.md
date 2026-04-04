@@ -20,7 +20,6 @@ isn't on the list yet.
 1.	How did your team meet?
 1.	How do users know they need this?
 1.	How do we know your team will stick together?
-1.	Will your team stick at this?
 1.	How do you get users?
 1.	How do you know customers need what you’re making?
 1.	How do you know people want this?
@@ -79,7 +78,6 @@ isn't on the list yet.
 1.	What do you understand about your users?
 1.	What domain expertise do you have?
 1.	What do you understand that others don’t?
-1.	What domain expertise do you have?
 1.	What else have you created together?
 1.	What exactly makes you different from existing options?
 1.	What has surprised you about user behavior?
@@ -97,12 +95,10 @@ isn't on the list yet.
 1.	What makes new users try you?
 1.	What obstacles will you face and how will you overcome them?
 1.	What other kinds of users could you go after once you get all these users using your software?
-1.	What part of this are you going to build first?
 1.	What part of your project are you going to build first?
 1.	What are you going to do next? What is the next step with the product evolution?
 1.	What problem are you helping them with?
-1.	What problems and hurdles are you anticipating? How will you overcome them?
-1.	What problems/hurdles are you anticipating?
+1.	What problems/hurdles are you anticipating? How will you overcome them?
 1.	What resistance will users have to trying you and how will you overcome it?
 1.	What systems have you hacked?
 1.	What will you do if we don’t fund you?
@@ -114,7 +110,6 @@ isn't on the list yet.
 1.	What’s the funniest thing that has happened to you?
 1.	What’s the rocket science here?
 1.	What’s the worst thing that has happened?
-1.	What’s the biggest mistake you have made?
 1.	Where do new users come from?
 1.	Where do new users come from? How do users find out about you?
 1.	Where is the rocket science here?
@@ -129,11 +124,9 @@ isn't on the list yet.
 1.	Who would be your next hire?
 1.	Who would use your product?
 1.	Who would you hire or how would you add to your team?
-1.	Who would be your next hire?
 1.	Why are these users good users to try to solve problems for?
 1.	Why are you uniquely qualified to work on this?
 1.	Why did you choose this idea?
-1.	Why did you pick this idea to work on?
 1.	Why did you pick this idea to work on?
 1.	Why did your team get together?
 1.	Why do the reluctant users hold back?
